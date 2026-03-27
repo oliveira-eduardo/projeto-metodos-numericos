@@ -1,1 +1,1 @@
-# projeto-metodos-numericos
+# Localização de Raízes em Aplicações de Computação
